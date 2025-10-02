@@ -18,10 +18,10 @@
 | 開催期間 | コンペティション名 | プラットフォーム | 順位 | メダル | 解法/リポジトリ |
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | 2024/10/21 - 2024/12/05 | [SMBC Group GREEN×DATA Challenge 2024](https://user.competition.signate.jp/ja/competition/detail/?competition=fb9ccaefa3594c7eb86d0b72d4227901) | SIGNATE | 725 / 862 |  | [Link](https://github.com/ToRaAaAaAaaaaaa/GREEN-DATA-Challenge-2024) |
-| 2023/11-2024/01 | [【第53回_Beginner限定コンペ】アメリカの都市エイムズの住宅価格予測](https://user.competition.signate.jp/ja/competition/detail/?competition=86cda73117514521abdcf39662dd6a7a) | SIGNATE | 112
- / 157 |  | [Link](ここに解法のURL) |
-| 2023/09-2023/10 | [lp](ここにコンペのURL) | SIGNATE | 112
- / 157 | | |
+| 2024/12/01 - 2024/12/31 | [【第53回_Beginner限定コンペ】アメリカの都市エイムズの住宅価格予測](https://user.competition.signate.jp/ja/competition/detail/?competition=86cda73117514521abdcf39662dd6a7a) | SIGNATE | 112
+ / 157 |  | [Link](https://github.com/ToRaAaAaAaaaaaa/Housing-Price-Prediction-for-Ames-USA) |
+| 2025/01/01 - 2025/01/31 | [【第54回_Beginner限定コンペ】PCゲームの勝敗予測](https://user.competition.signate.jp/ja/account/?tab=public) | SIGNATE | 27 
+/ 183 | Intermediateに昇格 | [Link](https://github.com/ToRaAaAaAaaaaaa/54th-Beginner-Only-Competition-PC-Game-Win-Loss-Prediction) |
 | 2023/07-2023/08 | [コンペティション名D](ここにコンペのURL) | Nishika | 35 / 500 | - | |
 | (例) | (例) | (例) | (例) | - | |
 
