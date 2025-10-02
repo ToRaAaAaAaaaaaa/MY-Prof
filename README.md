@@ -6,7 +6,7 @@
 
 各プラットフォームのプロフィールです。
 
-- **Kaggle:** [![Kaggle](https://www.kaggle.com/toraaaaa)](ここにあなたのKaggleプロフィールURL)
+- **Kaggle:** [![Kaggle](https://www.kaggle.com/toraaaaa)]
 - **SIGNATE:** [![SIGNATE](https://img.shields.io/badge/SIGNATE-2D3092?style=for-the-badge&logo=signate&logoColor=white)](ここにあなたのSIGNATEプロフィールURL)
 - **AtCoder:** [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](ここにあなたのAtCoderプロフィールURL)
 - **Nishika:** [![Nishika](https://img.shields.io/badge/Nishika-39C5BB?style=for-the-badge&logo=nishika&logoColor=white)](ここにあなたのNishikaプロフィールURL)
