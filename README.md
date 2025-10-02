@@ -17,7 +17,7 @@
 
 | 開催期間 | コンペティション名 | プラットフォーム | 順位 | メダル | 解法/リポジトリ |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| 2024/10/21 - 2024/12/05 | SMBC Group GREEN×DATA Challenge 2024](https://user.competition.signate.jp/ja/competition/detail/?competition=fb9ccaefa3594c7eb86d0b72d4227901) | SIGNATE | 725 位 / 862 |  | [Link](https://github.com/ToRaAaAaAaaaaaa/GREEN-DATA-Challenge-2024) |
+| 2024/10/21 - 2024/12/05 | [SMBC Group GREEN×DATA Challenge 2024](https://user.competition.signate.jp/ja/competition/detail/?competition=fb9ccaefa3594c7eb86d0b72d4227901) | SIGNATE | 725 / 862 |  | [Link](https://github.com/ToRaAaAaAaaaaaa/GREEN-DATA-Challenge-2024) |
 | 2023/11-2024/01 | [コンペティション名B](ここにコンペのURL) | SIGNATE | 50 / 800 | 🥈 Silver | [Link](ここに解法のURL) |
 | 2023/09-2023/10 | [コンペティション名C](ここにコンペのURL) | Kaggle | 120 / 1500 | 🥉 Bronze| |
 | 2023/07-2023/08 | [コンペティション名D](ここにコンペのURL) | Nishika | 35 / 500 | - | |
