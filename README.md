@@ -22,7 +22,7 @@
 | 2025/01/01 - 2025/01/31 | [【第54回_Beginner限定コンペ】PCゲームの勝敗予測](https://user.competition.signate.jp/ja/account/?tab=public) | SIGNATE | 27 / 183 | Intermediateに昇格 | [Link](https://github.com/ToRaAaAaAaaaaaa/54th-Beginner-Only-Competition-PC-Game-Win-Loss-Prediction) |
 | 2021/11/12 - 2025/07/08 | [【SOTA】SIGNATE Student Cup 2021春：楽曲のジャンル推定チャレンジ！！](https://user.competition.signate.jp/ja/competition/detail/?competition=0ac75d051a024631a650082a9fded6dc) | SIGNATE | 262 / 489 |  | |
 | 2021/11/12 - 2025/07/08 | [【SOTA】SIGNATE Student Cup 2021秋](https://user.competition.signate.jp/ja/competition/detail/?competition=6e00a467a6a94d15959ec8eb243ce135) | SIGNATE | 208 / 291 |  | |
-| 2021/11/12 - 2025/07/08 | [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://user.competition.signate.jp/ja/competition/detail/?competition=b1e6e5ab9a834cde924f7f46bae5b5e1) | SIGNATE | 274 / 1071 |  | [Link](https://github.com/ToRaAaAaAaaaaaa/GREEN-DATA-Challenge-2025) |
+| 2025/05/19 - 2025/06/30 | [SMBC Group GREEN×DATA Challenge 2025 for Recruiting](https://user.competition.signate.jp/ja/competition/detail/?competition=b1e6e5ab9a834cde924f7f46bae5b5e1) | SIGNATE | 274 / 1071 |  | [Link](https://github.com/ToRaAaAaAaaaaaa/GREEN-DATA-Challenge-2025) |
 
 ---
 
