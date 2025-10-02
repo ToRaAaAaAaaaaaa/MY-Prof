@@ -7,10 +7,9 @@
 各プラットフォームのプロフィールです。
 
 - **Kaggle:** [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/toraaaaa)
-- **SIGNATE:** [![SIGNATE](https://img.shields.io/badge/SIGNATE-2D3092?style=for-the-badge&logo=signate&logoColor=white)]こ(こにあなたのSIGNATEプロフィールURL)
-- **AtCoder:** [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](ここにあなたのAtCoderプロフィールURL)
-- **Nishika:** [![Nishika](https://img.shields.io/badge/Nishika-39C5BB?style=for-the-badge&logo=nishika&logoColor=white)](ここにあなたのNishikaプロフィールURL)
-- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](ここにあなたのGitHubプロフィールURL)
+- **SIGNATE:** [![SIGNATE](https://img.shields.io/badge/SIGNATE-2D3092?style=for-the-badge&logo=signate&logoColor=white)](https://signate.jp/users/312764)
+- **AtCoder:** [![AtCoder](https://img.shields.io/badge/AtCoder-000000?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/agitora)
+- **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ToRaAaAaAaaaaaa)
 
 ---
 
